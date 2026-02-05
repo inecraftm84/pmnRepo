@@ -13,9 +13,7 @@ jobs:
 
       - name: Generate index.txt
         run: |
-          ls *.pkg | sed 's/\.pkg$//' > index.txt
-          echo "Generated index.txt content:"
-          cat index.txt
+          find . -maxdepth 1 -name "*.pkg" -printf "%f\n" | sed 's/\.pkg$//' > index.txt
 
       - name: Commit and Push
         run: |
