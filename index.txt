@@ -2,9 +2,11 @@ vim
 htop
 xterm
 nginx
+dillo
 bash
 curl
 nano
 sl
 neofetch
 xball
+Xfbdev
