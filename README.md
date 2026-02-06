@@ -9,4 +9,3 @@ xball.pkg
 xterm.pkg
 # Not Working
 neofetch.pkg
-(I84LX TEST)
