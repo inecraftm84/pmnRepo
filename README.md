@@ -11,7 +11,7 @@ sl.pkg
 nginx.pkg
 micro.pkg
 ncdu.pkg
-cmatrix
+cmatrix.pkg
 # Unknown
 xball.pkg
 xclip.pkg
