@@ -1,5 +1,0 @@
-htop
-bash
-nano
-neofetch
-xball
