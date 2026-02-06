@@ -15,6 +15,16 @@ cmatrix.pkg
 cpufetch.pkg
 fastfetch.pkg
 file.pkg
+bmon.pkg
+calcurse.pkg
+iftop.pkg
+links.pkg
+mtr.pkg
+nmon.pkg
+nnn.pkg
+tig.pkg
+tty-clock.pkg
+
 # Unknown
 xball.pkg
 xclip.pkg
@@ -26,3 +36,4 @@ cowsay.pkg
 Xfbdev.pkg
 tmux.pkg
 fortune.pkg
+ranger.pkg
