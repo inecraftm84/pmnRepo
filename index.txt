@@ -4,7 +4,6 @@ xterm
 nginx
 dillo
 btop
-tmux
 bash
 curl
 nano
