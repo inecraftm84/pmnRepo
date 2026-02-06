@@ -1,6 +1,7 @@
 vim
 htop
 xterm
+nginx
 bash
 curl
 nano
