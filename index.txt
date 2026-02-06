@@ -4,5 +4,6 @@ xterm
 bash
 curl
 nano
+sl
 neofetch
 xball
