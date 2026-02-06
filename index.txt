@@ -8,8 +8,10 @@ bash
 curl
 nano
 sl
+ncdu
 neofetch
 xball
 micro
+cmatrix
 atop
 xclip
