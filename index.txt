@@ -1,5 +1,8 @@
+vim
 htop
+xterm
 bash
+curl
 nano
 neofetch
 xball
