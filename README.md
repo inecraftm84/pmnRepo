@@ -5,6 +5,7 @@ htop.pkg
 vim.pkg
 curl.pkg
 sl.pkg
+nginx.pkg
 # Unknown
 xball.pkg
 xterm.pkg
