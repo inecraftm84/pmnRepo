@@ -1,6 +1,8 @@
 vim
 htop
 xterm
+file
+cpufetch
 nginx
 dillo
 btop
@@ -9,9 +11,11 @@ curl
 nano
 sl
 ncdu
-neofetch
+fastfetch
 xball
+fortune
 micro
+cowsay
 cmatrix
 atop
 xclip
