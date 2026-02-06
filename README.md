@@ -10,10 +10,10 @@ curl.pkg
 sl.pkg
 nginx.pkg
 micro.pkg
+ncdu.pkg
+cmatrix.pkg
 # Unknown
 xball.pkg
 xclip.pkg
 xterm.pkg
 dillo.pkg
-# Not Working
-neofetch.pkg
