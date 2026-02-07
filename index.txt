@@ -72,3 +72,4 @@ nethogs
 xinit
 calcurse
 bc
+x11-xkb-utils

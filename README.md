@@ -50,6 +50,23 @@ pciutils.pkg
 sdparm.pkg
 tint.pkg
 toilet.pkg (need install toilet-fonts.pkg)
+bc.pkg (not show text)
+bsdgames.pkg
+aa3d.pkg
+calc.pkg (not show text)
+nethogs.pkg
+screenfetch.pkg (need install bash)
+units.pkg (not show text)
+linux-util.pkg
+xauth.pkg
+xinit.pkg (need util-linux)
+xfonts-base.pkg
+xserver-xorg-core.pkg
+xserver-xorg-input-libinput.pkg
+xserver-xorg-video-vesa.pkg
+xkb-data.pkg
+libxkbcommon0.pkg
+x11-xkb-utils.pkg
 # Unknown
 xball.pkg
 xclip.pkg
