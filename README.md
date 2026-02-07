@@ -30,6 +30,26 @@ nload.pkg
 strace.pkg
 stress.pkg
 tcpdump.pkg
+usbutils.pkg
+vttest.pkg
+wavemon.pkg
+2048.pkg
+bastet.pkg
+dmidecode.pkg
+figlet.pkg
+gnuchess.pkg
+greed.pkg
+hdparm.pkg
+joe.pkg
+lshw.pkg
+moon-buggy.pkg
+ninvaders.pkg
+nudoku.pkg
+pacman4console.pkg
+pciutils.pkg
+sdparm.pkg
+tint.pkg
+toilet.pkg (need install toilet-fonts.pkg)
 # Unknown
 xball.pkg
 xclip.pkg
@@ -43,3 +63,4 @@ tmux.pkg
 fortune.pkg
 ranger.pkg
 iotop.pkg
+nethack-console.pkg
