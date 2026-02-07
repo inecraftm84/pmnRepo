@@ -67,6 +67,7 @@ nnn
 cmatrix
 nudoku
 calc
+xserver-xorg-input-mouse
 xauth
 screenfetch
 libxkbcommon0
