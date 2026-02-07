@@ -3,6 +3,8 @@ xinit.pkg
 xfonts-base.pkg
 xserver-xorg-core.pkg
 xserver-xorg-input-libinput.pkg
+xserver-xorg-input-mouse.pkg
+xserver-xorg-input-kbd.pkg
 xserver-xorg-video-vesa.pkg
 xkb-data.pkg
 libxkbcommon0.pkg
