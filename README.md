@@ -1,4 +1,4 @@
-<img width="110" height="213" alt="image" src="https://github.com/user-attachments/assets/ac8d50b4-e2c2-46a9-8d23-c16cf91308e7" /># Working
+# Working
 xserver-xorg-input-mouse.pkg
 xserver-xorg-input-kbd.pkg
 bash.pkg
