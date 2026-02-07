@@ -105,6 +105,12 @@ nvtop.pkg
 rtorrent.pkg
 tilde.pkg (need install libt3config0.pkg libt3highlight2.pkg libt3key1.pkg libt3widget2t64.pkg libt3window0.pkg libtranscript1.pkg)
 vis.pkg
+libt3config0.pkg
+libt3highlight2.pkg
+libt3key1.pkg
+libt3widget2t64.pkg
+libt3window0.pkg
+libtranscript1.pkg
 # Unknown
 xclip.pkg
 x11-apps.pkg
