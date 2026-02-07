@@ -88,6 +88,7 @@ sl
 socat
 strace
 stress
+sudo
 sysstat
 tcpdump
 tcsh
