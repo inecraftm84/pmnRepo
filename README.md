@@ -1,4 +1,4 @@
-# Working
+<img width="110" height="213" alt="image" src="https://github.com/user-attachments/assets/ac8d50b4-e2c2-46a9-8d23-c16cf91308e7" /># Working
 xserver-xorg-input-mouse.pkg
 xserver-xorg-input-kbd.pkg
 bash.pkg
@@ -96,6 +96,15 @@ tcsh.pkg
 tree.pkg
 whois.pkg
 zsh.pkg
+apachetop.pkg
+aria2.pkg
+gping.pkg
+kakoune.pkg
+nsnake.pkg
+nvtop.pkg
+rtorrent.pkg
+tilde.pkg (need install libt3config0.pkg libt3highlight2.pkg libt3key1.pkg libt3widget2t64.pkg libt3window0.pkg libtranscript1.pkg)
+vis.pkg
 # Unknown
 xclip.pkg
 x11-apps.pkg
@@ -108,6 +117,7 @@ fortune.pkg
 ranger.pkg
 iotop.pkg
 nethack-console.pkg
+s-tui.pkg
 # Some Good Some Bad
 twm.pkg
 xterm.pkg
