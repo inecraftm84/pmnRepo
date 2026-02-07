@@ -19,6 +19,7 @@ cpufetch
 csh
 curl
 dash
+dbus-daemon
 dillo
 dmidecode
 elinks
