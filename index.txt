@@ -1,5 +1,4 @@
 libwacom9
-dnsutils
 vim
 irssi
 libcap2
