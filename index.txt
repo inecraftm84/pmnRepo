@@ -19,6 +19,7 @@ usbutils
 tcpdump
 btop
 libinput10
+xserver-xorg-input-evdev
 aa3d
 bash
 libevdev2

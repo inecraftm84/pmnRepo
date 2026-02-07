@@ -1,4 +1,6 @@
 # Working
+xserver-xorg-input-mouse.pkg
+xserver-xorg-input-kbd.pkg
 bash.pkg
 tmux.pkg
 atop.pkg
@@ -76,11 +78,11 @@ libcap2.pkg
 libffi8.pkg
 libpcre2-8-0.pkg
 libglib2.0-0t64.pkg
-# Unknown
+twm.pkg
 xball.pkg
+# Unknown
 xclip.pkg
-xterm.pkg
-dillo.pkg
+x11-apps
 # Deleted (Not Working)
 neofetch.pkg
 cowsay.pkg
@@ -90,3 +92,7 @@ fortune.pkg
 ranger.pkg
 iotop.pkg
 nethack-console.pkg
+# Some Good Some Bad
+twm.pkg
+xterm.pkg
+dillo.pkg
