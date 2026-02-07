@@ -1,0 +1,11 @@
+xauth.pkg
+xinit.pkg
+xfonts-base.pkg
+xserver-xorg-core.pkg
+xserver-xorg-input-libinput.pkg
+xserver-xorg-video-vesa.pkg
+xkb-data.pkg
+libxkbcommon0.pkg
+x11-xkb-utils.pkg
+
+install some X11,to run Xorg
