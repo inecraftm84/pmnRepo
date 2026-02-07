@@ -67,6 +67,7 @@ mtr
 nano
 ncdu
 nethogs
+network-manager
 nginx
 ninvaders
 nload
