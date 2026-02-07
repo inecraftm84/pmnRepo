@@ -15,6 +15,7 @@ dillo
 usbutils
 tcpdump
 btop
+libinput10
 aa3d
 bash
 curl

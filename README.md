@@ -67,6 +67,11 @@ xserver-xorg-video-vesa.pkg
 xkb-data.pkg
 libxkbcommon0.pkg
 x11-xkb-utils.pkg
+libmtdev1t64.pkg
+libinput10.pkg
+libudev1.pkg
+libevdev2.pkg
+libwacom9.pkg
 # Unknown
 xball.pkg
 xclip.pkg
