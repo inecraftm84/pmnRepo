@@ -24,7 +24,12 @@ nmon.pkg
 nnn.pkg
 tig.pkg
 tty-clock.pkg
-
+irssi.pkg
+mc.pkg
+nload.pkg
+strace.pkg
+stress.pkg
+tcpdump.pkg
 # Unknown
 xball.pkg
 xclip.pkg
@@ -37,3 +42,4 @@ Xfbdev.pkg
 tmux.pkg
 fortune.pkg
 ranger.pkg
+iotop.pkg
