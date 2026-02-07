@@ -31,13 +31,13 @@ pciutils
 fastfetch
 xball
 joe
+toilet-fonts
 iftop
 mc
 figlet
 nload
 dmidecode
 moon-buggy
-nethack-console
 links
 micro
 stress
