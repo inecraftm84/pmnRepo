@@ -53,6 +53,7 @@ figlet
 nload
 dmidecode
 moon-buggy
+xserver-xorg-input-kbd
 twm
 links
 micro
