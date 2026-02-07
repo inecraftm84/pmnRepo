@@ -19,6 +19,7 @@ aa3d
 bash
 curl
 units
+xkb-data
 nano
 sl
 mtr
@@ -58,6 +59,7 @@ nudoku
 calc
 xauth
 screenfetch
+libxkbcommon0
 tig
 xserver-xorg-core
 sdparm
