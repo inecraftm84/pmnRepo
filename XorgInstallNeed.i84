@@ -9,3 +9,10 @@ libxkbcommon0.pkg
 x11-xkb-utils.pkg
 
 install some X11,to run Xorg
+make a /etc/X11/xorg.conf.d/10-mouse.conf
+type:
+Section "InputClass"
+    Identifier "Mouse Hotplug"
+    MatchIsPointer "on"
+    Driver "libinput"
+EndSection
