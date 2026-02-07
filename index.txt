@@ -23,7 +23,6 @@ micro
 w3m
 nnn
 cmatrix
-ranger
 tig
 atop
 xclip
