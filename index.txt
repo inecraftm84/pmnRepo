@@ -53,6 +53,7 @@ twm
 links
 micro
 stress
+libgudev-1.0-0
 xserver-xorg-video-vesa
 xfonts-base
 ninvaders
