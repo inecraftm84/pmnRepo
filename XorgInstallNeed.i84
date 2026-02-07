@@ -22,3 +22,5 @@ Section "ServerLayout"
     Identifier "Layout0"
     InputDevice "Mouse0" "CorePointer"
 EndSection
+and typing this:
+Xorg :0 -modulepath /usr/lib/xorg/modules,/usr/lib/xorg/modules/drivers -retro -allowMouseOpenFail
