@@ -80,9 +80,25 @@ libpcre2-8-0.pkg
 libglib2.0-0t64.pkg
 twm.pkg
 xball.pkg
+bat.pkg
+csh.pkg
+dash.pkg
+elinks.pkg
+fd-find.pkg
+fzf.pkg
+lynx.pkg
+procps.pkg
+rsync.pkg
+screen.pkg
+socat.pkg
+sysstat.pkg
+tcsh.pkg
+tree.pkg
+whois.pkg
+zsh.pkg
 # Unknown
 xclip.pkg
-x11-apps
+x11-apps.pkg
 # Deleted (Not Working)
 neofetch.pkg
 cowsay.pkg
