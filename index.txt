@@ -1,6 +1,7 @@
 libwacom9
 vim
 irssi
+libcap2
 htop
 xterm
 file
@@ -26,12 +27,15 @@ units
 xkb-data
 nano
 sl
+libffi8
 mtr
 hdparm
 tty-clock
 greed
 wavemon
 ncdu
+libpcre2-8-0
+libglib2.0-0t64
 bsdgames
 iotop
 strace

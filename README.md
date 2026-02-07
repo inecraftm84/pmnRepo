@@ -69,9 +69,13 @@ libxkbcommon0.pkg
 x11-xkb-utils.pkg
 libmtdev1t64.pkg
 libinput10.pkg
-libudev1.pkg
 libevdev2.pkg
 libwacom9.pkg
+libgudev-1.0-0.pkg
+libcap2.pkg
+libffi8.pkg
+libpcre2-8-0.pkg
+libglib2.0-0t64.pkg
 # Unknown
 xball.pkg
 xclip.pkg
