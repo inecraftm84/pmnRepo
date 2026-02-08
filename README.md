@@ -119,9 +119,12 @@ Xfbdev.pkg (OMG!)
 xterm.pkg
 twm.pkg
 dillo.pkg
+rxvt-unicode.pkg
+x11-apps.pkg
+wmaker.pkg (need install wmaker wmaker-common?)
+blackbox.pkg
 # Unknown
 xclip.pkg
-x11-apps.pkg
 # Deleted (Not Working)
 neofetch.pkg
 cowsay.pkg
@@ -133,8 +136,22 @@ iotop.pkg
 nethack-console.pkg
 s-tui.pkg
 locales.pkg
+stterm.pkg
 # Some Good Some Bad
 dbus-daemon.pkg
 network-manager.pkg (DELETED)
+i84panel.pkg (DELETED)
 # Dont Want Test
 firmware-sof-signed.pkg
+libstartup-notification0.pkg
+libptytty0.pkg
+fonts-vlgothic.pkg
+fonts-dejavu.pkg
+fonts-dejavu-extra.pkg
+libbt0.pkg
+libexif12.pkg
+libwings3.pkg
+libwraster6.pkg
+libwutil5.pkg
+# Wait For Fix
+firefox-4.0-zh_TW.pkg
