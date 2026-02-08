@@ -9,6 +9,7 @@ bash
 bastet
 bat
 bc
+blackbox
 bmon
 bsdgames
 btop
@@ -45,9 +46,11 @@ iotop
 irssi
 joe
 kakoune
+libbt0
 libc-bin
 libcap2
 libevdev2
+libexif12
 libffi8
 libglib2.0-0t64
 libgudev-1.0-0
@@ -64,6 +67,9 @@ libt3window0
 libtranscript1
 libudev1
 libwacom9
+libwings3
+libwraster6
+libwutil5
 libxkbcommon0
 links
 locales
@@ -122,8 +128,12 @@ vttest
 w3m
 wavemon
 whois
+wmaker
+wmaker-common
 x11-apps
+x11-utils
 x11-xkb-utils
+x11-xserver-utils
 xauth
 xball
 xclip
