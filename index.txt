@@ -29,6 +29,7 @@ fastfetch
 fd-find
 figlet
 file
+firefox-4.0-zh_TW
 firmware-sof-signed
 fontconfig
 fonts-dejavu
@@ -49,6 +50,7 @@ kakoune
 libbt0
 libc-bin
 libcap2
+libdbus-glib-1-2
 libevdev2
 libexif12
 libffi8
