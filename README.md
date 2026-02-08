@@ -116,6 +116,9 @@ ca-certificates.pkg
 libc-bin.pkg
 locales.pkg
 Xfbdev.pkg (OMG!)
+xterm.pkg
+twm.pkg
+dillo.pkg
 # Unknown
 xclip.pkg
 x11-apps.pkg
@@ -131,10 +134,7 @@ nethack-console.pkg
 s-tui.pkg
 locales.pkg
 # Some Good Some Bad
-twm.pkg
 dbus-daemon.pkg
-xterm.pkg
-dillo.pkg
 network-manager.pkg (DELETED)
 # Dont Want Test
 firmware-sof-signed.pkg
