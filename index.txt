@@ -29,6 +29,7 @@ fd-find
 figlet
 file
 firmware-sof-signed
+fontconfig
 fonts-dejavu
 fonts-dejavu-extra
 fonts-vlgothic
