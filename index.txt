@@ -1,4 +1,5 @@
 2048
+Xfbdev
 aa3d
 apachetop
 aria2
