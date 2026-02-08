@@ -29,12 +29,16 @@ fd-find
 figlet
 file
 firmware-sof-signed
+fonts-dejavu
+fonts-dejavu-extra
+fonts-vlgothic
 fzf
 gnuchess
 gping
 greed
 hdparm
 htop
+i84panel
 iftop
 iotop
 irssi
@@ -49,6 +53,8 @@ libgudev-1.0-0
 libinput10
 libmtdev1t64
 libpcre2-8-0
+libptytty0
+libstartup-notification0
 libt3config0
 libt3highlight2
 libt3key1
@@ -84,6 +90,7 @@ pciutils
 procps
 rsync
 rtorrent
+rxvt-unicode
 s-tui
 screen
 screenfetch
@@ -92,6 +99,7 @@ sl
 socat
 strace
 stress
+stterm
 sudo
 sysstat
 tcpdump
