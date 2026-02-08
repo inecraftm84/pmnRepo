@@ -27,6 +27,7 @@ fastfetch
 fd-find
 figlet
 file
+firmware-sof-signed
 fzf
 gnuchess
 gping

@@ -111,6 +111,10 @@ libt3key1.pkg
 libt3widget2t64.pkg
 libt3window0.pkg
 libtranscript1.pkg
+base-passwd.pkg
+ca-certificates.pkg
+libc-bin.pkg
+locales.pkg
 # Unknown
 xclip.pkg
 x11-apps.pkg
@@ -124,7 +128,12 @@ ranger.pkg
 iotop.pkg
 nethack-console.pkg
 s-tui.pkg
+locales.pkg
 # Some Good Some Bad
 twm.pkg
+dbus-daemon.pkg
 xterm.pkg
 dillo.pkg
+network-manager.pkg (DELETED)
+# Dont Want Test
+firmware-sof-signed.pkg
