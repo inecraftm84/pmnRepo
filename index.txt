@@ -119,6 +119,7 @@ xauth
 xball
 xclip
 xfonts-base
+xfonts-utils
 xinit
 xkb-data
 xserver-xorg-core
