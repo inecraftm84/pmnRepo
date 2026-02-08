@@ -115,6 +115,7 @@ base-passwd.pkg
 ca-certificates.pkg
 libc-bin.pkg
 locales.pkg
+Xfbdev.pkg (OMG!)
 # Unknown
 xclip.pkg
 x11-apps.pkg
