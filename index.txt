@@ -1,3 +1,4 @@
+Xfbdev
 adwaita-icon-theme
 at-spi2-common
 dpkg
@@ -122,6 +123,7 @@ libtiff6
 libtinfo6
 libudev1
 libunistring5
+libutempter0
 libuuid1
 libwayland-client0
 libwayland-cursor0
@@ -132,6 +134,7 @@ libx11-6
 libx11-data
 libx11-xcb1
 libxau6
+libxaw7
 libxcb-render0
 libxcb-shm0
 libxcb-util1
@@ -147,6 +150,8 @@ libxi6
 libxinerama1
 libxkbcommon0
 libxml2
+libxmu6
+libxpm4
 libxrandr2
 libxrender1
 libxt6t64
@@ -168,7 +173,9 @@ tar
 tint2
 tzdata
 x11-common
+xbitmaps
 xfonts-encodings
 xfonts-utils
 xkb-data
+xterm
 zlib1g
