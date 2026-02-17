@@ -174,6 +174,7 @@ tint2
 tzdata
 x11-common
 xbitmaps
+xfonts-base
 xfonts-encodings
 xfonts-utils
 xkb-data
